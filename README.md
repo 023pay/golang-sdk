@@ -56,7 +56,7 @@
         return
     }
     ```
-- MiniApp下单
+- MiniApp下单(未实现)
     ```go
     var orderID = "0HQ48HEM3SSE"
     var amount = 1501 // 15.01元
@@ -67,7 +67,7 @@
         return
     }
     ```
-- H5下单
+- H5下单(未实现)
     ```go
     var orderID = "0HQ48HEM3SSE"
     var amount = 1501 // 15.01元
